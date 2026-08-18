@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-aigqzc.pulaucuan.com/sitemap.xml
